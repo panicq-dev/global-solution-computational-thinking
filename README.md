@@ -14,6 +14,7 @@ Este repositório contém o código-fonte Computational Thinking with Python do 
 ## Objetivo
 
 
+
 ## Tecnologia Utilizada
 
 - Python
@@ -93,6 +94,7 @@ Ao iniciar o sistema, será exibido um menu com as seguintes opções:
 
 Basta selecionar uma das opções e seguir as instruções exibidas no terminal.
 
+## Integrantes
 
 | Integrantes | RM |
 | --- | :---: |
