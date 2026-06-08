@@ -21,7 +21,6 @@ def menu():
         opcao = input("Escolha uma opção: ").strip()
         if opcao == "1":
             print("Definir local e obter previsão do tempo selecionado.")
-            print(api_key)
             cidade = input("Digite o nome da cidade: ").strip()
             coordenadas_resultado = coordenadas(cidade, api_key, base_url)
 
