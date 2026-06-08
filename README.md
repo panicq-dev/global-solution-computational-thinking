@@ -13,7 +13,9 @@ Este repositório contém o código-fonte Computational Thinking with Python do 
 
 ## Objetivo
 
+## Objetivo
 
+Desenvolver uma solução computacional inspirada no Electrodynamic Dust Shield (EDS) da NASA para auxiliar na limpeza e manutenção de painéis solares afetados pelo acúmulo de poeira. O sistema utiliza dados meteorológicos obtidos em tempo real para avaliar condições climáticas, prever chuvas e determinar o momento mais adequado para realizar a limpeza, simulando ganhos de eficiência energética e economia de manutenção. Dessa forma, busca aumentar o desempenho dos sistemas fotovoltaicos, reduzir desperdícios e promover uma geração de energia mais sustentável.
 
 ## Tecnologia Utilizada
 
